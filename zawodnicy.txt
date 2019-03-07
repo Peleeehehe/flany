@@ -1,0 +1,16 @@
+7,7,7,7,kuba,knaga,500
+7,7,3,7,innykuba,knaga,500
+7,1,7,7,kubaletz,knaga,500
+6,7,2,7,szmelec,knaga,500
+7,7,4,7,srobczak,dzbany,500
+7,7,6,7,sobczak,dzbany,500
+3,7,7,7,jajo,dzbany,500
+7,2,7,7,piter,dzbany,500
+7,7,7,7,parker,harnas,500
+7,7,3,7,spiderix,harnas,500
+7,1,7,7,eszkieto,harnas,500
+6,7,2,7,szybko,harnas,500
+7,7,4,7,pije,delta,500
+7,7,6,7,bo,delta,500
+3,7,7,7,to,delta,500
+7,2,7,7,kocham,delta,500
